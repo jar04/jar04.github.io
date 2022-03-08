@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 Answering Questions about dopamine, bridging the digitak gap, and stativ bs dynamic programming.
 
-- Bulleted
+- Dopamine is a type of neurotransmitter. Your body makes it, and your nervous system uses it to send messages between nerve cells. That's why it's sometimes called a chemical messenger. Dopamine plays a role in how we feel pleasure. It's a big part of our unique human ability to think and plan
 - List
 
 1. Numbered
