@@ -11,9 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Answering Questions about dopamine, bridging the digitak gap, and stativ bs dynamic programming.
 
 - Bulleted
 - List
