@@ -29,7 +29,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 -Dopamine issues are real and prove to be a problem for certain high schoolers.
 
-
+-Poorer or rural areas in America and other countries may have less or little access to Technology
+-Some countries may have different or restricted access, for instance China and USA may have divide in service allowed in their countries
+-Individual may have less access to latest updates, thus may be working on older generations of computers
+-Religious groups like the Amish choose not to use technology
+-San Diego county has regional distinction in many categories between Northern and Southern population, usually indicated by Interstate 8.
+-Sunnyvale CA has been know as technology hub of influence for the entirety of the United States.
 
 ```
 
