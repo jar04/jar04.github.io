@@ -48,8 +48,8 @@ Notes from 5.1-5.2
 ```
 ```markdown
 Data Structure Project:
-Replit Runtime [https://replit.com/@JacobRozenkrant/Menu#main.py)
-Links to GitHub [GitHub](https://github.com/cwang999/n22p5-coders)
+Replit Runtime [https://replit.com/@JacobRozenkrant/Menu#main.py]
+Links to GitHub [GitHub](https://github.com/cwang999/n22p5-coders]
 
 We will be doing a project for the 
 ```
@@ -59,7 +59,7 @@ We will be doing a project for the
 Create Task Project:
 Replit Runtime [Replit](https://replit.com/@JacobRozenkrant/ReflectingArtisticTrials#Main.java
 Links to GitHub [GitHub](https://github.com/jar04/flask_portfolio/blob/main/templates/jacob.html)
-Runtime: https://www.loom.com/share/4389f1e59eb741d19288388ed37eec14
+Runtime [https://www.loom.com/share/4389f1e59eb741d19288388ed37eec14]
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
