@@ -28,9 +28,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -Harmful: Advances are exponential. Meaning we can't expeect to have a measure of control over it. 
 2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 -Dopamine issues are real and prove to be a problem for certain high schoolers.
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
