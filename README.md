@@ -48,15 +48,17 @@ Notes from 5.1-5.2
 ```
 ```markdown
 Data Structure Project:
-Replit Runtime [Replit](https://replit.com/~)
-Links to GitHub [editor on GitHub](https://github.com/jar04/jar04.github.io/edit/main/README.md)
+Replit Runtime [https://replit.com/@JacobRozenkrant/ReflectingArtisticTrials#Main.java)
+Links to GitHub [GitHub](https://github.com/cwang999/n22p5-coders)
+
+We will be doing a project for the 
 ```
 
 
 ```markdown
 Create Task Project:
-Replit Runtime [Replit](https://replit.com/~)
-Links to GitHub [editor on GitHub]()
+Replit Runtime [Replit](https://replit.com/@JacobRozenkrant/ReflectingArtisticTrials#Main.java
+Links to GitHub [GitHub](https://github.com/cwang999/n22p5-coders)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
