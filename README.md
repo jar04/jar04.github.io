@@ -46,6 +46,18 @@ Notes from 5.1-5.2
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 -It depends on what is being blocked or red taped. There are such barriers at Del Norte, such as when a site is deemed as not safe, and so the students don't have access to it. 
 ```
+```markdown
+Data Structure Project:
+Replit Runtime [editor on GitHub](https://github.com/jar04/jar04.github.io/edit/main/README.md)
+Links to GitHub [editor on GitHub](https://github.com/jar04/jar04.github.io/edit/main/README.md)
+```
+
+
+```markdown
+Create Task Project:
+Replit Runtime [editor on GitHub](https://github.com/jar04/jar04.github.io/edit/main/README.md)
+Links to GitHub [editor on GitHub](https://github.com/jar04/jar04.github.io/edit/main/README.md)
+```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
