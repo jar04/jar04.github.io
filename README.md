@@ -36,6 +36,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -San Diego county has regional distinction in many categories between Northern and Southern population, usually indicated by Interstate 8.
 -Sunnyvale CA has been know as technology hub of influence for the entirety of the United States.
 
+
+1. How does someone empower themself in a digital world?
+- People can feel powerful in a digitial world if they believe that they can operate anonymously. 
+2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+-Someone who feels empowered may help someone that is not empowered by educating them. That person could help someone else have greater access to all that information. Another option is that they could choose to educate others.
+3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+-It depends on what is being blocked or red taped. There are such barriers at Del Norte, such as when a site is deemed as not safe, and so the students don't have access to it. 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
