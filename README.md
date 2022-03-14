@@ -48,7 +48,7 @@ Notes from 5.1-5.2
 ```
 ```markdown
 Data Structure Project:
-Replit Runtime [https://replit.com/@JacobRozenkrant/ReflectingArtisticTrials#Main.java)
+Replit Runtime [https://replit.com/@JacobRozenkrant/Menu#main.py)
 Links to GitHub [GitHub](https://github.com/cwang999/n22p5-coders)
 
 We will be doing a project for the 
