@@ -20,8 +20,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+-Beneficial: Completes certain tasks faster and better than humans.
+-Beneficial: Has  made possible advances in technology.
+-Beneficial: Greater access to information. 
+-Harmful: We still don't understand the limits of computing. 
+-Harmful: Has made possible the rampant spread of disinformation.
+-Harmful: Advances are exponential. Meaning we can't expeect to have a measure of control over it. 
 2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
-
+-Dopamine issues are real and prove to be a problem for certain high schoolers.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
