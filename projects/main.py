@@ -19,7 +19,9 @@ def factorial(num):
   if(num > 0):
     return num*factorial(num - 1)
 
-def 
+  
+  
+
   
 def menu():
   val = input("Enter the week(0-2): ")
@@ -48,10 +50,11 @@ def menu():
       menu()
     if(val1 == 4):
       print("See you later!")
-  if(val == 1):
-    print("What work would you like to view?")
-
   if(val == 2):
+    print("1--Loops")
+    print("2--Fibonacci")
+    print("3--Factorial")
+    print("4--Exit")
     print("What work would you like to view?")
 
 menu()
