@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 # Data Structure Project
 
 [Replit Runtime](https://replit.com/@JacobRozenkrant/Menu#main.py)
