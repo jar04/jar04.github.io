@@ -1,4 +1,23 @@
 {% include navbar.html %}
+
+# Finals Quiz 1 and Finals Quiz 2 - Test Corrections
+Finals Quiz: 45/50
+This option is correct. The number of statements in a program is not likely to affect how a program will handle larger data sets. The efficiency of a program is independent of the number of statements it contains. There are some programs with very few statements that take a long time to execute, as well as programs with many statements that take little time to execute.
+ 
+Correct. The company is not able to provide a human representative for calls made after business hours.
+ 
+This option is correct. The aggregation of information in browser cookies can be used by websites that the user visits to track the user and collect information about the user.
+ 
+This option is correct. Because the variable sum is initialized to store the value of the first element of numList, and because the iteration block is a FOR EACH loop, the value of the first element is added to sum twice. Since the first element of the list is 0, adding this number to the sum does not affect the sum. A non-zero first element would give an incorrect result. In general, a single test case is not sufficient to confirm that a program works as intended
+
+This option is correct. Statement II is correct because the repository of stored metadata includes time, so information about the time of calls can be analyzed to make predictions about future calls. Statement III is correct because the metadata stores the phone numbers of the two parties of a call. Given one phone number, the metadata can be processed to provide all phone numbers that were called by or placed to that person.
+ 
+Finals Quiz 2: 48/50 
+Correct. Actions I, II, and III are all helpful in program development. Consultation and communication with program users is an important aspect of program development. Incrementally adding tested program segments to correct working programs helps create large correct programs. Collaboration can decrease the size and complexity of tasks required of individual programmers.
+ 
+Correct. Actions I, II, and III are all helpful in program development. Consultation and communication with program users is an important aspect of program development. Incrementally adding tested program segments to correct working programs helps create large correct programs. Collaboration can decrease the size and complexity of tasks required of individual programmers.
+ 
+
 # 5.6 - Safe Computing
 - "Dad [t]ock on safe computing" - John Mortensen, March 22, 2022
 - Personally identifiable information (PII)
