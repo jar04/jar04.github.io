@@ -1,7 +1,7 @@
 {% include navbar.html %}
 
 
-https://github.com/jar04/jar04.github.io/issues
+[Tickets In GitHub](https://github.com/jar04/jar04.github.io/issues)
 
 Proctored MC's
 
