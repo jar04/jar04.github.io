@@ -127,11 +127,7 @@ def menu():
       print(textpic)
       menu()
     if(val1 == 3):
-      menu()
-    
-  
-   
-   
+      menu() 
   if(val == 1):
     print("1--Loops")
     print("2--Fibonacci")
@@ -164,11 +160,7 @@ def menu():
       val4= input("Welcome to Palindrome Function! Select the the word you would like to see  ")
       val4 = str(val4)
       f = palindromefunction()
-      ans = (palindromefunction(val4))
-      if (ans):
-        print("Yes")
-      else:
-        print("No")
+      menu()
     if(val3 == 2):
       val2= input("Welcome to Factorial Class! Select the the term you would like to see  ")
       val2 = int(val2)

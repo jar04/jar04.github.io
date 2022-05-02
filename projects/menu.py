@@ -18,7 +18,7 @@ def menu():
         print("1--Loops")
         print("2--Fibonacci")
         print("3--Exit")
-        val1 = input("What work would you like to view?  ")
+        val1 = input("What work would you like to view?")
         val1 = int(val1)
         if(val1 == 1):
             menu()
