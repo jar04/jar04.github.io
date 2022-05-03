@@ -1,5 +1,15 @@
 {% include navbar.html %}
 
+# Finals Proctored MC- Test Corrections
+Finals Quiz: 46/50
+-This option is correct. The number of statements in a program is not likely to affect how a program will handle larger data sets. The efficiency of a program is independent of the number of statements it contains. There are some programs with very few statements that take a long time to execute, as well as programs with many statements that take little time to execute.
+ 
+-Correct. The company is not able to provide a human representative for calls made after business hours.
+ 
+-This option is correct. The aggregation of information in browser cookies can be used by websites that the user visits to track the user and collect information about the user.
+ 
+-This option is correct. Because the variable sum is initialized to store the value of the first element of numList, and because the iteration block is a FOR EACH loop, the value of the first element is added to sum twice. Since the first element of the list is 0, adding this number to the sum does not affect the sum. A non-zero first element would give an incorrect result. In general, a single test case is not sufficient to confirm that a program works as intended
+
 # Finals Quiz 1 and Finals Quiz 2 - Test Corrections
 Finals Quiz: 45/50
 -This option is correct. The number of statements in a program is not likely to affect how a program will handle larger data sets. The efficiency of a program is independent of the number of statements it contains. There are some programs with very few statements that take a long time to execute, as well as programs with many statements that take little time to execute.
